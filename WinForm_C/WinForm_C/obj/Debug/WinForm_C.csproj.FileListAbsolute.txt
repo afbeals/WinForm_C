@@ -1,0 +1,15 @@
+R:\Other\Programming\C#\WinForm_C\WinForm_C\WinForm_C\bin\Debug\WinForm_C.exe.config
+R:\Other\Programming\C#\WinForm_C\WinForm_C\WinForm_C\bin\Debug\WinForm_C.exe
+R:\Other\Programming\C#\WinForm_C\WinForm_C\WinForm_C\bin\Debug\WinForm_C.pdb
+R:\Other\Programming\C#\WinForm_C\WinForm_C\WinForm_C\obj\Debug\WinForm_C.csprojAssemblyReference.cache
+R:\Other\Programming\C#\WinForm_C\WinForm_C\WinForm_C\obj\Debug\MainWindow.g.cs
+R:\Other\Programming\C#\WinForm_C\WinForm_C\WinForm_C\obj\Debug\App.g.cs
+R:\Other\Programming\C#\WinForm_C\WinForm_C\WinForm_C\obj\Debug\WinForm_C_MarkupCompile.cache
+R:\Other\Programming\C#\WinForm_C\WinForm_C\WinForm_C\obj\Debug\WinForm_C_MarkupCompile.lref
+R:\Other\Programming\C#\WinForm_C\WinForm_C\WinForm_C\obj\Debug\MainWindow.baml
+R:\Other\Programming\C#\WinForm_C\WinForm_C\WinForm_C\obj\Debug\WinForm_C.g.resources
+R:\Other\Programming\C#\WinForm_C\WinForm_C\WinForm_C\obj\Debug\WinForm_C.Properties.Resources.resources
+R:\Other\Programming\C#\WinForm_C\WinForm_C\WinForm_C\obj\Debug\WinForm_C.csproj.GenerateResource.cache
+R:\Other\Programming\C#\WinForm_C\WinForm_C\WinForm_C\obj\Debug\WinForm_C.csproj.CoreCompileInputs.cache
+R:\Other\Programming\C#\WinForm_C\WinForm_C\WinForm_C\obj\Debug\WinForm_C.exe
+R:\Other\Programming\C#\WinForm_C\WinForm_C\WinForm_C\obj\Debug\WinForm_C.pdb
